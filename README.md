@@ -4,13 +4,13 @@
 <img src="https://github.com/Jomon-J/Jomon-J/blob/main/Assets/Programmer.gif" height="155" width="200" align="middle"/>  <br>  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
 </h1>
 
-<h3 align="center">Aspiring Software Development Engineer at <a href="https://www.zoho.com/">Zoho</a></h3>
+<h3 align="center">Aspiring Software Development Engineer at <a href="https://www.zoho.com/">ZOHO</a></h3>
 
 
 -  Currently Learning   Java & DSA 
 
 
--  Take a look at my <a a href="https://jomon.vercel.app/" target="_blank">**portfolio.**</a>
+-  Take a look at my <a a href="https://jomon.dev/" target="_blank">**portfolio.**</a>
 
 
 -  Ask me about    : **```GitHub```**
@@ -23,7 +23,7 @@
 
 
 - Connect me over <br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%2320232a.svg?style=normal&logo=linkedIn&logoColor=%230077B5)](https://www.linkedin.com/in/jomon-j)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2320232a.svg?style=normal&logo=linkedIn&logoColor=%230077B5)](https://www.linkedin.com/in/jomonj)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/Jomon-J/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2320232a.svg?style=normal&logo=geeksforgeeks&logoColor=%2300C853)](https://auth.geeksforgeeks.org/user/jomonjoy/)
 [![Discord](https://img.shields.io/badge/Discord-%2320232a.svg?style=normal&logo=discord&logoColor=%237289DA)](https://discord.gg/gjdGS6BJ)

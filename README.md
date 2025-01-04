@@ -29,7 +29,7 @@
 - Connect me over : <br>
 
 <p align="left">
-<a href="https://linkedin.com/in/jomon-j" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="linkedin" /></a>
+<a href="https://linkedin.com/in/jomonj" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="linkedin" /></a>
 <a href="https://www.leetcode.com/jomonjoy" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=wDGo581Ea5Nf&format=png" alt="leetcode" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jomonjoy" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=AbQBhN9v62Ob&format=png" alt="geeksforgeeks"/></a>
 </p>

@@ -9,7 +9,7 @@
 
 -  Currently Learning  Java & DSA 
 
--  Take a look at my <a a href="https://jomon.live/" target="_blank">**portfolio**</a> 
+-  Take a look at my <a a href="https://jomon.dev/" target="_blank">**portfolio**</a> 
 
 -  Ask me about    : **```GitHub```**
 

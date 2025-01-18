@@ -1,29 +1,61 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomon-J&label=Profile%20views&color=707070&style=flat" alt="profile view"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jomon-J&label=Profile%20views&color=87CEEB&style=flat" alt="profile view"/> </p>
 
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/2e2ce5ae-1706-40c7-9300-57b27534def5" height="200" width="300" align="center"/><br>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&&&color=62dafc&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There+!+;+I'm+Jomon+Joy+!;" />
+  <img src="https://github.com/user-attachments/assets/c4149728-9d23-444c-bde3-571ab637934c" height="180" width="200" align="center"/><br>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There,%20Iam%20Jomon%20Joy;&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=87CEEB &vCenter=true&pause=1000&size=22" align="center" />
 </h1>
 
-<h3 align="center">Aspiring Software Development Engineer at <a href="https://www.zoho.com/">ZOHO</a></h3>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/8ffbc0fa-7c98-44de-948b-d2f5a379f56e" width="75"/>Aspiring Software Development Engineer at <a href="https://www.zoho.com/">ZOHO</a></h3>
 
--  Currently Learning  Java & DSA 
+<img src="https://github.com/user-attachments/assets/c322ae61-17b0-400c-9c27-f97c05d7ecb5" height="200" width="300" align="right">
 
--  Take a look at my <a a href="https://jomon.dev/" target="_blank">**portfolio**</a> 
+-  💻 Currently Learning  Java DSA 
 
--  Ask me about    : **```GitHub```**
+-  🌐 Take a look at my <a a href="https://jomon.dev/" target="_blank">**portfolio**</a>
 
--  Drop me an email <a href="mailto:jomon.reachout@gmail.com" target="_blank">**jomon.reachout@gmail.com**</a>
+-  💭 Ask me about    : **```GitHub```**
 
-- Check out my <a href="https://drive.google.com/drive/folders/1Xtc_jAm3jnVh-o5JRLVb_o7RFGIA5fVK?usp=drive_link" target="_blank">**resume**</a> for more details.
+-  📧 Drop me an email <a href="mailto:jomon.techie@gmail.com" target="_blank">**jomon.techie@gmail.com**</a>
 
-- Connect with me on : <br>
+- 📄 Check out my <a href="https://drive.google.com/drive/folders/1Xtc_jAm3jnVh-o5JRLVb_o7RFGIA5fVK?usp=drive_link" target="_blank">**resume**</a> for more details.
 
-<p align="left">
-<a href="https://linkedin.com/in/jomonj" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="linkedin" /></a>
-<a href="https://www.leetcode.com/jomonjoy" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=wDGo581Ea5Nf&format=png" alt="leetcode" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jomonjoy" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=AbQBhN9v62Ob&format=png" alt="geeksforgeeks"/></a>
-</p><br>
+- 🔗 Connect with me on : <br>
+
+<!--Social Media-->   
+<table width="120" align="left">
+  <tr>
+    <td align="center" width="60">
+      <a href="https://linkedin.com/in/jomonj" target="blank">
+        <img src="https://github.com/user-attachments/assets/c9691c7e-aa61-40bb-b859-29dd7e79e04c" alt="linkedin" height="36" width="65">
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="mailto:jomon.techie@gmail.com">
+        <img src="https://github.com/user-attachments/assets/94fa812d-25d9-44ea-9394-6869e312bbf9" alt="gmail" height="36" width="65">
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://discord.com/invite/u74z6bRcs6">
+        <img src="https://github.com/user-attachments/assets/707e74db-4e14-49c7-97ae-a26335407d70" alt="discord" height="36" width="65">
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://auth.geeksforgeeks.org/user/jomonjoy">
+        <img src="https://img.icons8.com/?size=48&id=AbQBhN9v62Ob&format=png" alt="GfG" height="36" width="65">
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.leetcode.com/jomonjoy">
+        <img src="https://img.icons8.com/?size=48&id=wDGo581Ea5Nf&format=png" alt="Leetcode" height="36" width="65">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+<br>
+<br>
 
 ```
 01000101 01110110 01101111 01101100 01110110 01100101 00100000 01101111 01110010 00100000 01110010 01100101 01110000 01100101 01100001 01110100 00101110 
@@ -32,41 +64,107 @@
 
 <img src="https://github.com/user-attachments/assets/d6a324eb-6397-48b6-b0e6-e2d8576d3044"><br>
 
-## <div align="center">Areas of Expertise :</div>
-
+<!---Skills--->
+## <div align="center"><img src="https://github.com/user-attachments/assets/19c820e9-e785-4ff1-b8fc-86fa494ea082" width = 50px height = 40px> Areas of Focus :</div>
 <br/>
-<div align="center">
- <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
- <img width="48" height="40" src="https://img.icons8.com/officel/48/spring-logo.png" alt="spring-logo"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
- <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
- <img width="48" height="48" src="https://img.icons8.com/plasticine/48/react.png" alt="react"/>
- <br>
- <img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/>
- <img width="48" height="48" src="https://img.icons8.com/office/48/express-js.png" alt="express-js"/>
- <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
- <img width="48" height="48" src="https://img.icons8.com/nolan/48/github.png" alt="github"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="google-firebase"/> 
-</div>
+
+<table width="100">
+  <tr>
+    <td align='center' width="190">
+        <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java" width="80" height="75">
+    </td>
+    <td align='center' width="190">
+        <img src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo" width="80" height="75">
+    </td>
+    <td align='center' width="190">
+        <img src="https://img.icons8.com/officel/48/spring-logo.png" alt="spring-logo" width="80" height="75">
+    </td>
+    <td align='center' width="190">
+      <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="html5" width="80" height="75"/>
+    </td>
+    <td align='center' width="190">
+      <img src="https://img.icons8.com/fluency/48/css3.png" alt="css3" width="80" height="75"/>
+    </td>
+    <td align='center' width="190">
+      <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" width="80" height="75"/>
+    </td>
+  </tr>
+  <tr>
+      <td align='center' width="190">
+        <img src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap" width="80" height="75"/>
+      </td>
+      <td align='center' width="190">
+        <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss" width="80" height="75"/>
+      </td>
+      <td align='center' width="190">
+        <img src="https://img.icons8.com/plasticine/48/react.png" alt="react" width="80" height="75"/>
+      </td>
+      <td align='center' width="190">
+        <img src="https://img.icons8.com/color/48/redux.png" alt="redux" width="80" height="75"/>
+      </td>
+      <td align='center' width="190">
+        <img src="https://img.icons8.com/office/48/express-js.png" alt="express-js" width="80" height="75"/>
+      <td align='center' width="190">
+        <img src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js" width="80" height="75"/>
+      </td>
+  </tr>
+    <tr>
+      <td align='center' width="190">
+        <img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" width="80" height="75"/>
+      </td>
+      <td align='center' width="190">
+        <img src="https://img.icons8.com/color/48/mysql-logo.png" width="80" height="75"/>
+      </td>
+      <td align='center' width="190">
+        <img src="https://img.icons8.com/color/48/git.png" width="80" height="75"/>
+      </td>
+      <td align='center' width="190">
+        <img src="https://img.icons8.com/nolan/48/github.png" width="80" height="75"/>
+      </td>
+      <td align='center' width="190">
+        <img src="https://img.icons8.com/color/48/google-firebase-console.png" width="80" height="75"/>
+      </td>
+  </tr>
+</table>
 
 <img src="https://github.com/user-attachments/assets/d6a324eb-6397-48b6-b0e6-e2d8576d3044"><br>
 
-## <div align="center">GitHub Profile Stats :</div>
+<!---GitHub Profile Status--->
+## <div align="center"><img src="https://github.com/user-attachments/assets/a5d6dc97-e708-4b0e-afac-f78e13cac775" width = 40px height = 40px > Stats and Activity</h2></div>
+  
+<table width="100">
+  <tr border="0">
+    <td align='center' width="510">
+      <!--🔝 Rank Gitthub Appearance-->
+      <img src="https://gh-readme-profile.vercel.app/api?username=Jomon-J&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
+      <br>
+      <!--📏LINE-->
+      <img src="https://github.com/user-attachments/assets/4cf9223c-703d-4cfd-8997-75dd4ae4756a">
+      <br><br>
+      <!--🏆 GitHub Trophy-->
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jomon-J" target="_blank" alt="Jomon Joy" />
+      <br><br>
+    <td align='center' width="510">
+      <!--📙 Languages-->
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomon-J&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jomon-J" target="_blank" alt="Jomon Joy" /> </p>
+<img src="https://github.com/user-attachments/assets/d6a324eb-6397-48b6-b0e6-e2d8576d3044"><br>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jomon-J&theme=react&show_icons=true&hide_border=true&count_private=true" alt="stats graph" width="400" /><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jomon-J&theme=react&hide_border=true" alt="streak graph" width="400" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomon-J&theme=react&show_icons=true&hide_border=true&layout=compact" alt="languages graph" width="400" />
-</div>
-<br>
+<!---📈ACTIVITY GRAPH --->
+## <div align="center"><h3><img src="https://github.com/user-attachments/assets/2b945ead-ec19-4428-bd51-4e3979494969" width = 40px height = 50px> Activity Graph </h3></div>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&&&color=ffffff&center=true&vCenter=true&width=400&height=50&duration=5500&lines=Thank+you+for+visiting...+❤️;" />
+<table width="100">
+  <tr border="0">
+    <td align='center' width="1010">
+      <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=Jomon-J&theme=github-dark&hide_border=true" img alt="Hunterdii's Activity Graph"/>
+    </td>
+  </tr>
+</table>
+
+<!---Footer--->
+<img src="https://github.com/user-attachments/assets/f652a820-25d6-46ac-af72-2c7f2da08940" height="100" width="100" align="right"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&&&color=ffffff&center=true&vCenter=true&width=400&height=50&duration=5500&lines=Thank+you+for+visiting...+💙;" />
+

@@ -71,75 +71,80 @@
 <table width="100">
   <tr>
     <td align='center' width="150">
-        <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java" width="45" height="45"><br>
+        <img src="https://img.icons8.com/color/100/java-coffee-cup-logo--v1.png" alt="java" width="45" height="45"><br>
       <p>java</p>
     </td>
     <td align='center' width="150">
-        <img src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo" width="45" height="45"><br>
+        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/external-algorithms-data-analytics-flaticons-flat-flat-icons.png" alt="DSA" width="45" height="45"><br>
+      <p>DSA</p>
+    </td>
+    <td align='center' width="150">
+        <img src="https://img.icons8.com/color/100/spring-logo.png" alt="spring-logo" width="45" height="45"><br>
       <p>Spring</p>
     </td>
     <td align='center' width="190">
-        <img src="https://img.icons8.com/officel/48/spring-logo.png" alt="spring-logo" width="45" height="45"><br>
+        <img src="https://img.icons8.com/officel/100/spring-logo.png" alt="spring-logo" width="45" height="45"><br>
       <p>Spring Boot</p>
     </td>
     <td align='center' width="150">
-      <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="html5" width="45" height="45"/><br>
+      <img src="https://img.icons8.com/color/100/html-5--v1.png" alt="html5" width="45" height="45"/><br>
       <p>HTML</p>
     </td>
     <td align='center' width="150">
-      <img src="https://img.icons8.com/fluency/48/css3.png" alt="css3" width="45" height="45"/><br>
+      <img src="https://img.icons8.com/fluency/100/css3.png" alt="css3" width="45" height="45"/><br>
       <p>CSS</p>
-    </td>
-    <td align='center' width="150">
-      <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" width="45" height="45"/><br>
-      <p>JavaScript</p>
     </td>
   </tr>
   <tr>
+    <td align='center' width="150">
+      <img src="https://img.icons8.com/color/100/javascript--v1.png" alt="javascript" width="45" height="45"/><br>
+      <p>JavaScript</p>
+    </td>
       <td align='center' width="150">
-        <img src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap" width="45" height="45"/><br>
+        <img src="https://img.icons8.com/color/100/bootstrap--v2.png" alt="bootstrap" width="45" height="45"/><br>
       <p>BootStrap</p>
       </td>
       <td align='center' width="150">
-        <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss" width="45" height="45"/><br>
+        <img src="https://img.icons8.com/color/100/tailwindcss.png" alt="tailwindcss" width="45" height="45"/><br>
       <p>Tailwind CSS</p>
       </td>
       <td align='center' width="150">
-        <img src="https://img.icons8.com/plasticine/48/react.png" alt="react" width="45" height="45"/><br>
+        <img src="https://img.icons8.com/plasticine/100/react.png" alt="react" width="45" height="45"/><br>
       <p>React</p>
       </td>
       <td align='center' width="150">
-        <img src="https://img.icons8.com/color/48/redux.png" alt="redux" width="45" height="45"/><br>
+        <img src="https://img.icons8.com/color/100/redux.png" alt="redux" width="45" height="45"/><br>
       <p>Redux</p>
       </td>
       <td align='center' width="150">
-        <img src="https://img.icons8.com/office/48/express-js.png" alt="express-js" width="45" height="45"/><br>
+        <img src="https://img.icons8.com/office/100/express-js.png" alt="express-js" width="45" height="45"/><br>
       <p>Express</p>
-      <td align='center' width="150">
-        <img src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js" width="45" height="45"/><br>
-      <p>Node</p>
       </td>
   </tr>
     <tr>
       <td align='center' width="150">
-        <img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" width="45" height="45"/><br>
+        <img src="https://img.icons8.com/fluency/100/node-js.png" alt="node-js" width="45" height="45"/><br>
+      <p>Node</p>
+      </td>
+      <td align='center' width="150">
+        <img src="https://img.icons8.com/color/100/mongodb.png" alt="mongodb" width="45" height="45"/><br>
       <p>MongoDB</p>
       </td>
       <td align='center' width="150">
-        <img src="https://img.icons8.com/color/48/mysql-logo.png" width="45" height="45"/><br>
+        <img src="https://img.icons8.com/color/100/mysql-logo.png" width="45" height="45"/><br>
       <p>MySql</p>
       </td>
       <td align='center' width="150">
-        <img src="https://img.icons8.com/color/48/git.png" width="45" height="45"/><br>
+        <img src="https://img.icons8.com/color/100/git.png" width="45" height="45"/><br>
       <p>Git</p>
       </td>
       <td align='center' width="150">
-        <img src="https://img.icons8.com/nolan/48/github.png" width="45" height="45"/><br>
+        <img src="https://img.icons8.com/nolan/100/github.png" width="45" height="45"/><br>
       <p>GitHub</p>
       </td>
       <td align='center' width="150">
-        <img src="https://img.icons8.com/color/48/google-firebase-console.png" width="45" height="45"/><br>
-      <p>FireBase</p>
+        <img src="https://img.icons8.com/external-those-icons-flat-those-icons/100/external-Linux-logos-and-brands-those-icons-flat-those-icons.png" width="45" height="45"/><br>
+      <p>Linux</p>
       </td>
   </tr>
 </table>

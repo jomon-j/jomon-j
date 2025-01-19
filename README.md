@@ -15,7 +15,7 @@
 
 -  💭 Ask me about    : **```GitHub```**
 
--  📧 Drop me an <a href="mailto:jomon.reachout@gmail.com" target="_blank">**email**</a>
+-  📧 Drop me an email <a href="mailto:contact@jomon.dev" target="_blank">**contact@jomon.dev**</a>
 
 - 📄 Check out my <a href="https://drive.google.com/drive/folders/1Xtc_jAm3jnVh-o5JRLVb_o7RFGIA5fVK?usp=drive_link" target="_blank">**resume**</a> for more details.
 
@@ -30,7 +30,7 @@
       </a>
     </td>
     <td align="center" width="60">
-      <a href="mailto:jomon.reachout@gmail.com">
+      <a href="mailto:contact@jomon.dev">
         <img src="https://github.com/user-attachments/assets/94fa812d-25d9-44ea-9394-6869e312bbf9" alt="gmail" height="36" width="65">
       </a>
     </td>

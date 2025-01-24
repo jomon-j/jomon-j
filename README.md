@@ -153,22 +153,44 @@
 
 <!---GitHub Profile Status--->
 ## <div align="center"><img src="https://github.com/user-attachments/assets/a5d6dc97-e708-4b0e-afac-f78e13cac775" width = 40px height = 40px > Stats and Activity</h2></div>
-  
+
+ <!---GeeksforGeeks & LeetCode--->
 <table width="100">
   <tr border="0">
     <td align='center' width="510">
-      <!--🔝 Rank Gitthub Appearance-->
-      <img src="https://gh-readme-profile.vercel.app/api?username=Jomon-J&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
+      <!-- GFG-->
+      <img src="https://gfgstatscard.vercel.app/jomonjoy" alt="GFG stats" />
+    <td align='center' width="510">
+      <!--LeetCode-->
+      <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Jomon-Codes?theme=dark&font=Nunito&ext=heatmap" />
+    </td>
+</table>
+
+<!---GitHub--->
+<table width="100">
+  <tr border="0">
+    <td align='center' width="510">
+      <!-- GitHub Streak-->
+       <br><br>
+       <img src="https://github-readme-streak-stats-iota-blue.vercel.app?user=jomon-J&theme=react&border_radius=15&card_width=450&card_height=170" alt="GitHub Streak" />
+<!--       <img src="https://gh-readme-profile.vercel.app/api?username=Jomon-J&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" /> -->
       <br>
       <!--📏LINE-->
       <img src="https://github.com/user-attachments/assets/4cf9223c-703d-4cfd-8997-75dd4ae4756a">
+      <!-- GitHub Stats-->
       <br><br>
-      <!--🏆 GitHub Trophy-->
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=Jomon-J" target="_blank" alt="Jomon Joy" />
+      <img width=450 src="https://github-readme-stats.vercel.app/api?username=jomon-j&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
       <br><br>
     <td align='center' width="510">
-      <!--📙 Languages-->
-      <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomon-J&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+      <!--GitHub Languages-->
+      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomon-j&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<!--       <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomon-J&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/> -->
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!---GitHub Trophy--->
+      <img src="https://github-profile-trophy.vercel.app/?username=Jomon-J" target="_blank" alt="GitHub Trophy" />
     </td>
   </tr>
 </table>

@@ -15,7 +15,7 @@
 
 -  💭 Ask me about    : **```GitHub```**
 
--  📧 Drop me an email <a href="mailto:contact@jomon.dev" target="_blank">**contact@jomon.dev**</a>
+-  📧 Drop me an <a href="mailto:jomonjoy859@gmail.com" target="_blank">**email**</a>
 
 - 📄 Check out my <a href="https://drive.google.com/drive/folders/1Xtc_jAm3jnVh-o5JRLVb_o7RFGIA5fVK?usp=drive_link" target="_blank">**resume**</a> for more details.
 

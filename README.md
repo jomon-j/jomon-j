@@ -30,7 +30,7 @@
       </a>
     </td>
     <td align="center" width="60">
-      <a href="mailto:contact@jomon.dev">
+      <a href="mailto:jomonjoy859@gmail.com">
         <img src="https://github.com/user-attachments/assets/94fa812d-25d9-44ea-9394-6869e312bbf9" alt="gmail" height="36" width="65">
       </a>
     </td>
@@ -162,7 +162,7 @@
       <img src="https://gfgstatscard.vercel.app/jomonjoy" alt="GFG stats" />
     <td align='center' width="510">
       <!--LeetCode-->
-      <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Jomon-Codes?theme=dark&font=Nunito&ext=heatmap" />
+      <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/jomonjoy?theme=dark&font=Nunito&ext=heatmap" />
     </td>
 </table>
 

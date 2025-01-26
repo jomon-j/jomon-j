@@ -183,7 +183,8 @@
       <br><br>
     <td align='center' width="510">
       <!--GitHub Languages-->
-      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomon-j&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+      <img src="https://github.com/user-attachments/assets/5f8a7572-314d-474e-af72-bf44ef89c881" align="center" width="300" alt="github anime"/><br><br>
+      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomon-j&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br><br>
 <!--       <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomon-J&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/> -->
     </td>
   </tr>

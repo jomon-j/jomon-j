@@ -30,7 +30,7 @@
       </a>
     </td>
     <td align="center" width="60">
-      <a href="mailto:jomonjoy425@gmail.com">
+      <a href="mailto:contact.jomonjoy@gmail.com">
         <img src="https://github.com/user-attachments/assets/94fa812d-25d9-44ea-9394-6869e312bbf9" alt="gmail" height="36" width="65">
       </a>
     </td>

@@ -5,19 +5,19 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20There,%20Iam%20Jomon%20Joy;&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=87CEEB &vCenter=true&pause=1000&size=22" align="center" />
 </h1>
 
-<h3 align="center"><img src="https://github.com/user-attachments/assets/8ffbc0fa-7c98-44de-948b-d2f5a379f56e" width="40"/>Aspiring Software Development Engineer at <a href="https://www.zoho.com/" target="_blank">ZOHO</a></h3>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/8ffbc0fa-7c98-44de-948b-d2f5a379f56e" width="40"/>Aspiring Software Development Engineer at <a href="https://www.zoho.com/">ZOHO</a></h3>
 
 <img src="https://github.com/user-attachments/assets/c322ae61-17b0-400c-9c27-f97c05d7ecb5" height="60" width="300" align="right">
 
 -  💻 Currently Learning  Java DSA 
 
--  🌐 Take a moment to check out my <a a href="https://jomon.vercel.app" target="_blank">**portfolio site**.</a>
+-  🌐 Take a moment to check out my <a a href="https://jomon.vercel.app">**portfolio site**.</a>
 
 -  💭 Ask me about ***`anything`***. I mean, I clearly know everything... or maybe I don't. But hey, I’ll pretend I do!
 
--  📧 Drop me an email at <a href="mailto:contact.jomonjoy@gmail.com" target="_blank">**contact.jomonjoy@gmail.com**</a>
+-  📧 Drop me an email at <a href="mailto:contact.jomonjoy@gmail.com">**contact.jomonjoy@gmail.com**</a>
 
-- 📄 For more details, please refer to my <a href="https://drive.google.com/drive/folders/1Xtc_jAm3jnVh-o5JRLVb_o7RFGIA5fVK?usp=drive_link" target="_blank">**resume**.</a>
+- 📄 For more details, please refer to my <a href="https://drive.google.com/drive/folders/1Xtc_jAm3jnVh-o5JRLVb_o7RFGIA5fVK?usp=drive_link">**resume**.</a>
 
 - 🔗 Connect with me on : <br>
 
@@ -25,22 +25,22 @@
 <table width="120" align="left">
   <tr>
     <td align="center" width="60">
-      <a href="https://linkedin.com/in/iamjomon/" target="blank">
+      <a href="https://linkedin.com/in/iamjomon/">
         <img src="https://github.com/user-attachments/assets/c9691c7e-aa61-40bb-b859-29dd7e79e04c" alt="LinkedIn" height="36" width="65">
       </a>
     </td>
     <td align="center" width="60">
-      <a href="mailto:contact.jomonjoy@gmail.com" target="_blank">
+      <a href="mailto:contact.jomonjoy@gmail.com">
         <img src="https://github.com/user-attachments/assets/94fa812d-25d9-44ea-9394-6869e312bbf9" alt="Gmail" height="36" width="65">
       </a>
     </td>
     <td align="center" width="60">
-      <a href="https://www.geeksforgeeks.org/user/jomonjoy/" target="_blank">
+      <a href="https://www.geeksforgeeks.org/user/jomonjoy/">
         <img src="https://img.icons8.com/?size=48&id=AbQBhN9v62Ob&format=png" alt="GeeksForGeeks" height="36" width="65">
       </a>
     </td>
     <td align="center" width="60">
-      <a href="https://leetcode.com/u/jomonjoy/" target="_blank">
+      <a href="https://leetcode.com/u/jomonjoy/">
         <img src="https://img.icons8.com/?size=48&id=wDGo581Ea5Nf&format=png" alt="Leetcode" height="36" width="65">
       </a>
     </td>
@@ -70,7 +70,7 @@
       <p>java</p>
     </td>
     <td align='center' width="150">
-      <img src="https://img.icons8.com/color/100/html-5--v1.png" alt="html5" width="45" height="45"/><br>
+      <img src="https://img.icons8.com/color/100/html-5--v1.png" alt="html" width="45" height="45"/><br>
       <p>HTML</p>
     </td>
     <td align='center' width="150">
@@ -112,17 +112,17 @@
       <p>MongoDB</p>
     </td>
     <td align='center' width="150">
-      <img src="https://img.icons8.com/color/100/mysql-logo.png" width="45" height="45"/><br>
-      <p>MySql</p>
+      <img src="https://img.icons8.com/color/100/mysql-logo.png" alt="mysql" width="45" height="45"/><br>
+      <p>MySQL</p>
     </td>
   </tr>
   <tr>
     <td align='center' width="150">
-      <img src="https://img.icons8.com/color/100/git.png" width="45" height="45"/><br>
+      <img src="https://img.icons8.com/color/100/git.png" alt="git" width="45" height="45"/><br>
       <p>Git</p>
     </td>
     <td align='center' width="150">
-      <img src="https://img.icons8.com/nolan/100/github.png" width="45" height="45"/><br>
+      <img src="https://img.icons8.com/nolan/100/github.png" alt="gitHub" width="45" height="45"/><br>
       <p>GitHub</p>
     </td>
   </tr>
@@ -137,10 +137,10 @@
 <table width="100">
   <tr border="0">
     <td align='center' width="510">
-      <img src="https://gfgstatscard.vercel.app/jomonjoy" alt="GFG stats" />
+      <img src="https://gfgstatscard.vercel.app/jomonjoy" alt="GeeksForGeeks" />
     </td>
     <td align='center' width="510">
-      <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/jomonjoy?theme=dark&font=Nunito&ext=heatmap" />
+      <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/jomonjoy?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode"/>
     </td>
   </tr>
 </table>
@@ -154,10 +154,10 @@
       <br>
       <img src="https://github.com/user-attachments/assets/4cf9223c-703d-4cfd-8997-75dd4ae4756a" alt="Line">
       <br><br>
-      <img width=450 src="https://github-readme-stats.vercel.app/api?username=iamjomon&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
+      <img width=450 src="https://github-readme-stats.vercel.app/api?username=iamjomon&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
       <br><br>
     <td align='center' width="510">
-      <img src="https://github.com/user-attachments/assets/5f8a7572-314d-474e-af72-bf44ef89c881" align="center" width="300" alt="github anime"/><br><br>
+      <img src="https://github.com/user-attachments/assets/5f8a7572-314d-474e-af72-bf44ef89c881" align="center" width="300" alt="GitHub Anime"/><br><br>
       <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjomon&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Languages" />
       <br><br>
     </td>
@@ -177,7 +177,7 @@
 <table width="100">
   <tr border="0">
     <td align='center' width="1010">
-      <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=iamjomon&theme=github-dark&hide_border=true" img alt="GitHub Activity Graph"/>
+      <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=iamjomon&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
     </td>
   </tr>
 </table>

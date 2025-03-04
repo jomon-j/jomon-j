@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jomon-j&label=Profile%20views&color=87CEEB&style=flat" alt="profile view"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamjomon&label=Profile%20views&color=87CEEB&style=flat" alt="profile view"/> </p>
 
 <h1 align="center">
   <img src="https://github.com/user-attachments/assets/c4149728-9d23-444c-bde3-571ab637934c" height="150" width="150" align="center"/><br>
